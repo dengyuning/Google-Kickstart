@@ -1,3 +1,6 @@
+时间：2018年10月17日  
+题目：喝酸奶问题
+
 #### Java版本
 ```
     public static int Yogurt(int[] nums, int k){
